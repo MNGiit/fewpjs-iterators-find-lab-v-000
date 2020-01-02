@@ -5,5 +5,5 @@ function testFunc() {
 }
 
 const superbowlWin = function(wins) {
-  return wins.find("W");
+  return wins.find( w => w.;
 }
