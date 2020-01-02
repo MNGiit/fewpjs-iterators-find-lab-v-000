@@ -4,6 +4,6 @@ function testFunc() {
   return "hi"
 }
 
-const superbowlWin = function(stuff) {
+const superbowlWin = function(wins) {
   
 }
