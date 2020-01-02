@@ -6,6 +6,6 @@ function testFunc() {
 
 const superbowlWin = function(wins) {
   // return wins.find( w => w.result === "W");
-  let result = wins.find( win => win.result === "W" )
-  return result;
+  let found = wins.find( win => win.result === "W" )
+  return found;
 }
